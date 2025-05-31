@@ -23,8 +23,8 @@
 
 `Laravel` `Livewire` `PHP` `MySQL` `PostgreSQL`  
 `JavaScript` `Tailwind` `Bootstrap` `Docker`  
-`CI/CD` `Windows Server` `MikroTik` `Vmware/ESXi`  
-`Git` `CorelDraw` `Photoshop` `NodeJS`
+`CI/CD` `Windows Server` `DevOps` `Vmware/ESXi`  
+`Git` `CorelDraw` `Photoshop` `Figma` `Jira`
 
 ---
 
