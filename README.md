@@ -45,9 +45,9 @@
 | Role | Company | Period |
 |------|---------|--------|
 | Co-Founder / CEO | **FOODLY** | 2024 – Present |
-| Web Developer | **Tower Group** | Feb 2024 – Jul 2024 |
-| ERP System Manager | **Dreamland Oasis** | Dec 2023 – May 2024 |
-| IT Manager | **ARGO / Bellevue / Tourinvest** | Feb 2021 – Jul 2023 |
+| Web Developer | **Tower Group** | 2024 – 2024 |
+| ERP System Manager | **Dreamland Oasis** | 2023 –  2024 |
+| IT Manager | **ARGO / Bellevue / Tourinvest** | 2021 – 2023 |
 | CEO / Web Dev | **CoFi** | 2020 – 2024 |
 | Full Stack Dev | **Asya Software** | 2020 – 2021 |
 | Junior Web Dev | **Orbi Group** | 2018 – 2020 |
