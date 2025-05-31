@@ -77,11 +77,20 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [contact@gakhokia.dev](mailto:contact@gakhokia.dev)
+- 📧 Email: [david.gakhokia@gmail.com](mailto:david.gakhokia@gmail.com)
 - 🌐 Website: [gakhokia.dev](https://gakhokia.dev)
 - 💼 LinkedIn: [linkedin.com/in/david-gakhokia](https://linkedin.com/in/david-gakhokia)
 
 ---
+
+### 🧠 My Contributions to FOODLY
+
+- 🧾 RESTful API Development (Laravel 12 + Sanctum)
+- 📲 Mobile/Tablet POS System
+- 🖥️ Self-service Kiosk Interface
+- 🛠️ Admin Panel & Vendor Dashboard
+- 📊 Real-time analytics, payments, and QR menus
+
 
 ### 📊 GitHub Stats
 
