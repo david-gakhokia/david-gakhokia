@@ -11,11 +11,67 @@
 
 ### 👨‍💻 About Me
 
-- 🧑‍💻 I'm **David Gakhokia**, an IT Specialist & Web Developer
-- 💼 Founder of [FOODLY](https://foodly.space)
-- 🧠 Passionate about Laravel, API Architecture, and Kiosk systems
-- 📍 Based in Georgia, moving to Dubai soon 🚀
-- 🌍 I speak: Georgian 🇬🇪, English 🇬🇧, and Code 🧑‍💻
+- 💼 Full Stack Developer & Startup Founder
+- 🧠 Creator of [FOODLY](https://foodly.space) – a smart restaurant ecosystem
+- 🔐 Specialized in Laravel API Development (Sanctum, REST, JWT)
+- 🌐 Experienced with multi-platform systems: mobile, web, kiosk, admin dashboards
+- 📍 Based in Batumi, Georgia | Relocating to Dubai 🇦🇪
+
+---
+
+### 🧰 Tech Stack
+
+`Laravel` `Livewire` `PHP` `MySQL` `PostgreSQL`  
+`JavaScript` `Tailwind` `Bootstrap` `Docker`  
+`CI/CD` `Windows Server` `MikroTik` `Vmware/ESXi`  
+`Git` `CorelDraw` `Photoshop` `NodeJS`
+
+---
+
+### 🎓 Education & Certifications
+
+- **MBA**, Business Administration – Batumi Shota Rustaveli State University (2022–2025)
+- **Bachelor of Computer Science**, Faculty of Physics & Mathematics (2015–2020)
+- **Certified:**  
+  - Laravel Developer Certification (2025)  
+  - Microsoft Windows Server (2018)  
+  - Back-end Programming with Laravel (2023 & 2025)  
+  - Full Web Developer Course, Udemy  
+
+---
+
+### 💼 Professional Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Co-Founder / CEO | **FOODLY** | 2024 – Present |
+| Web Developer | **Tower Group** | Feb 2024 – Jul 2024 |
+| ERP System Manager | **Dreamland Oasis** | Dec 2023 – May 2024 |
+| IT Manager | **ARGO / Bellevue / Tourinvest** | Feb 2021 – Jul 2023 |
+| CEO / Web Dev | **CoFi** | 2020 – 2024 |
+| Full Stack Dev | **Asya Software** | 2020 – 2021 |
+| Junior Web Dev | **Orbi Group** | 2018 – 2020 |
+| IT Admin | **Pier Batumi / Storno Audit / Provider Group** | 2015 – 2020 |
+
+---
+
+### 🚀 Projects & Platforms
+
+**FOODLY Ecosystem (Laravel 12 + Sanctum):**  
+- `foodly.space` – Main public platform  
+- `api.foodly.pro` – REST API backend  
+- `admin.foodly.pro` – Admin Panel  
+- `kiosk.foodly.pro` – Kiosk Interface  
+- `foodlyapp.ge` – POS + Dashboard  
+- `foodly.info` – Landing page for marketing  
+- `foodly.com.ge` – Presentation site
+
+**Other Notable Projects:**  
+- `exodusrestaurant.com` – Restaurant site with custom CMS  
+- `roibgroup.ge` – Real estate + CRM platform  
+- `metalgroup.ge` – E-commerce for industrial products  
+- `gepa.ge` – Electronics online store  
+- `smartkeda.ge` – Municipal smart village platform
 
 ---
 
@@ -23,16 +79,15 @@
 
 - 📧 Email: [contact@gakhokia.dev](mailto:contact@gakhokia.dev)
 - 🌐 Website: [gakhokia.dev](https://gakhokia.dev)
-- 💼 LinkedIn: [david-gakhokia](https://linkedin.com/in/david-gakhokia)
+- 💼 LinkedIn: [linkedin.com/in/david-gakhokia](https://linkedin.com/in/david-gakhokia)
 
 ---
 
 ### 📊 GitHub Stats
 
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david-gakhokia&show_icons=true&theme=default)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david-gakhokia&layout=compact)
 
 ---
 
-> ❤️ *Thanks for visiting my profile! Feel free to connect with me or collaborate on cool projects.*
+> ✨ Thank you for visiting! Let’s connect and build something impactful.
