@@ -85,7 +85,7 @@
 
 ### 🧠 My Contributions to FOODLY
 
-- 🧾 RESTful API Development (Laravel 12 + Sanctum)
+- 🧾 RESTful API Development (Laravel 10/11/12 + Sanctum)
 - 📲 Mobile/Tablet POS System
 - 🖥️ Self-service Kiosk Interface
 - 🛠️ Admin Panel & Vendor Dashboard
