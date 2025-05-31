@@ -94,7 +94,6 @@
 
 ### 📊 GitHub Stats
 
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david-gakhokia&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david-gakhokia&layout=compact)
 
 ---
