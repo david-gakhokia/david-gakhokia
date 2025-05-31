@@ -34,9 +34,9 @@
 - **Bachelor of Computer Science**, Faculty of Physics & Mathematics (2015–2020)
 - **Certified:**  
   - Laravel Developer Certification (2025)  
-  - Microsoft Windows Server (2018)  
   - Back-end Programming with Laravel (2023 & 2025)  
-  - Full Web Developer Course, Udemy  
+  - Microsoft Windows Server (2018)  
+  - Full Web Developer Course, Udemy (2016)
 
 ---
 
