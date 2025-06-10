@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/david-gakhokia"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://twitter.com/davidgakhokia"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" /></a>
   <a href="mailto:contact@gakhokia.dev"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" /></a>
   <a href="https://gakhokia.dev"><img src="https://img.shields.io/badge/Portfolio-000?logo=github&style=for-the-badge" /></a>
 </p>
