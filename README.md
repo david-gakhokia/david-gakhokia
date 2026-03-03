@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 💼 Full Stack Developer & Startup Founder
-- 🧠 Creator of [FOODLY](https://foodly.space) – a smart restaurant ecosystem
+- 🧠 Creator of [FOODLY](https://foodlyapp.ge) – a smart restaurant ecosystem
 - 🔐 Specialized in Laravel API Development (Sanctum, REST, JWT)
 - 🌐 Experienced with multi-platform systems: mobile, web, kiosk, admin dashboards
 - 📍 Based in Batumi, Georgia | Relocating to Dubai 🇦🇪
